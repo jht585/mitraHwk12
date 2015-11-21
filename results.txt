@@ -1,7 +1,0 @@
-pascal:
-babbage:
-hollerith:
-
-zuse:
-
-aiken:
